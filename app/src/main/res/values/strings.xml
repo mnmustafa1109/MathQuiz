@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="title_activity_quiz_page">quiz_page</string>
+</resources>
